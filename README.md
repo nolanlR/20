@@ -1,3 +1,5 @@
 -print("Hello World!")
-+print("hello World!")
+
+for i in range(5):
+    print(i)
 
